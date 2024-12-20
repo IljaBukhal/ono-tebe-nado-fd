@@ -261,16 +261,11 @@
    max-width: 100%;
 }
 
-.footer__menu {
-}
-
 .footer__menu-list {
    list-style-type: none;
    text-align: center;
 }
 
-.footer__menu-list-item {
-}
 .footer__menu-link {
    font-size: 18px;
 }
@@ -284,11 +279,6 @@
    justify-content: end;
    gap: 48px;
    list-style-type: none;
-}
-
-.footer__social-list-item {
-}
-.footer__social-link {
 }
 
 .social-icon {
